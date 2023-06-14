@@ -12,8 +12,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/manithlakvidu2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manithlakvidu2002" height="30" width="40" /></a>
-<a href="https://fb.com/manith lakvidu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="manith lakvidu" height="30" width="40" /></a>
-<a href="https://instagram.com/manith lakvidu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manith lakvidu" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/manith.lakvidu.54?mibextid=lqqj4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/manith.lakvidu.54?mibextid=lqqj4d" height="30" width="40" /></a>
+<a href="https://instagram.com/https://instagram.com/manith.lakvidu?igshid=mzrlodbinwflza==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/manith.lakvidu?igshid=mzrlodbinwflza==" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
